@@ -12,7 +12,9 @@
 - Archivos de configuración esenciales
 
 ### 1.2 Formateo y validacion de datos SQL
-* [Formateador de inserts SQL](https://github.com/TheBootcampLibrary/sql-formatted) - Herramienta para formatear archivos para import.sql
+* [Formateador de inserts SQL Python](https://github.com/TheBootcampLibrary/sql-formatted) - Herramienta para formatear archivos para import.sql
+* [Formateador de inserts SQL Java](https://github.com/TheBootcampLibrary/sql-formatted-java) - Herramienta para formatear archivos para import.sql
+
 
 #### Características principales:
 - Convierte INSERTs de múltiples líneas a una sola línea
